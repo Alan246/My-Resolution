@@ -5,6 +5,7 @@ Resolusi
    = html 5
 2. bisa css
 3. bisa javascript
+   - react
 4. bisa framework css dan javascript
 ...
 n. jadi pro programmer
