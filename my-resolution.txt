@@ -5,6 +5,7 @@ Resolusi
    = html 5
 2. bisa css
    - css dasar
+   - css layouting
 3. bisa javascript
 4. bisa framework css dan javascript
 ...
