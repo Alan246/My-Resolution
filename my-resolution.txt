@@ -1,6 +1,8 @@
 Resolusi
 
-1. bisa html, css dan javascript
-2. bisa framework css dan javascript
+1. bisa html
+2. bisa css
+3. bisa javascript
+4. bisa framework css dan javascript
 ...
 n. jadi pro programmer
